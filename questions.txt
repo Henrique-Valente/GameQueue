@@ -1,0 +1,28 @@
+9
+
+Q: In what year did WW2 ended?
+A: 1945
+
+Q: 1+2?
+A: 3
+
+Q: 2+3?
+A: 5
+
+Q: 10*0?
+A: 0
+
+Q: What is the capital city of Portugal?
+A: Lisbon
+
+Q: What is the value of pi (π) rounded to two decimal places?
+A: 3.14
+
+Q: Who was the first President of the United States?
+A: George Washington
+
+Q: What language does England speak?
+A: English
+
+Q: Who is the founder of Apple Inc.?
+A: Steve Jobs

@@ -1,0 +1,21 @@
+### Game Accounts ###
+
+Username: User1
+Password: 1234
+Rank: Beginner
+
+Username: User2
+Password: 1234
+Rank: Beginner
+
+Username: User3
+Password: 1234
+Rank: Beginner
+
+Username: User4
+Password: 1234
+Rank: Intermediate
+
+Username: User5
+Password: 1234
+Rank: Intermediate
